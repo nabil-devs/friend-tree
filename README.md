@@ -12,6 +12,6 @@ To access the release, we’re setting two simple community goals:
 
 Once both requirements are met, the **source will be released** to everyone who’s verified.
 
-If you want early access notifications and to secure your spot, you can [**verify here.**](https://discord.com/channels/1327956719246245898/1446752687222685777)
+If you want early access notifications and to secure your spot, you can [**verify here.**](https://discord.com/channels/1327956719246245898/1446752670290284694)
 
 [**Discord Server**](https://discord.gg/aY6SePMS5j)
